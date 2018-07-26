@@ -1,0 +1,14 @@
+policy: 1.0.0
+
+info:
+  title: Remove Sensitive Info
+  name: removesensitive
+  version: 1.0.0
+  description: Removes possibly sensitive info
+  contact:
+    name: Nadav Nachshon
+    url: http://www.sureuniversal.com
+    email: nadav@sureuniversal.com
+
+gateways:
+ - micro-gateway

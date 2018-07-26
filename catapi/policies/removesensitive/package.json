@@ -1,0 +1,13 @@
+{
+  "name": "removesensitive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "policy",
+    "api",
+    "apiconnect",
+    "sample"
+  ],
+  "author": "Nadav Nachshon",
+  "license": "MIT"
+}
